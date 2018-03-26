@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Instantgram</string>
+
+    <string name="user_a">Amand Seyfrieda</string>
+    <string name="user_b">Benebatch Cumberdict</string>
+    <string name="user_c">Chantum Taning</string>
+    <string name="user_d">Derek Zoolander</string>
+    <string name="user_e">Emson Watma</string>
+
+    <string name="a_location">Damned if I knew, Somewhere</string>
+    <string name="b_location">St Bartholomew's Hospital, London</string>
+    <string name="c_location">Interrogation Room, LAPD</string>
+    <string name="d_location">D.Z.C.F.C.W.C.R.G.A.W.L.T.D.O.S.G.T., NY</string>
+    <string name="e_location">Hogwarts, London</string>
+
+    <string name="a_post">When you\'re stuck in the woods and all you can smell is pan-fried bacon.</string>
+    <string name="b_post">brb</string>
+    <string name="c_post">Tbt my "good cop, bad cop" days.</string>
+    <string name="d_post">I call this "Tropic Thunder"</string>
+    <string name="e_post">Finally graduated from Hogwarts!</string>
+
+    <string name="liked_toast">Post Liked!</string>
+    <string name="unliked_toast">Post Unliked!</string>
+
+</resources>
